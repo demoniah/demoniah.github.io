@@ -16,4 +16,6 @@ A website for my favourite character is currently being built here!
 * Item 9
 * Item 28
 
+> I’ve always been more interested
+> in the future than in the past.
  

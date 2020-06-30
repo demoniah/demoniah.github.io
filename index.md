@@ -19,5 +19,5 @@ A website for my favourite character is currently being built here!
 > I’ve always been more interested
 > in the future than in the past.
 
-![GitHub Logo](https://secure.img1-fg.wfcdn.com/im/33179025/compr-r85/1664/1664004/mickey-mouse-life-size-cardboard-stand-up.jpg)
+<img src="https://secure.img1-fg.wfcdn.com/im/33179025/compr-r85/1664/1664004/mickey-mouse-life-size-cardboard-stand-up.jpg"/>
  
